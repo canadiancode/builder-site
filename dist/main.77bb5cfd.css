@@ -92,6 +92,7 @@ select {
   height: 100vh;
   position: absolute;
   top: 0;
+  overflow: hidden;
 }
 .heroDivContainer .heroImgContainer {
   width: 100%;
